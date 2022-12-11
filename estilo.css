@@ -1,0 +1,41 @@
+body{
+    color: brown;
+    background-color: black;
+    font-family: Arial;
+    margin: 0;
+}
+
+.cuerpo{
+  
+    background-color: beige;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.imagen{
+
+text-align: center;
+
+}
+
+.contenedor{
+
+display: flex;
+font-size: 18px;
+
+}
+
+.contenedor2{
+   
+    display: flex;
+    
+}
+    
+.pie{
+    text-align: center;
+     border: 2px solid brown;
+    
+
+}
+    
+
